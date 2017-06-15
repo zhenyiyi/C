@@ -7,9 +7,14 @@
 //
 
 #include <stdio.h>
+#include "Array.h"
 
 int main(int argc, const char * argv[]) {
-    // insert code here...
-    printf("Hello, World!\n");
+    testArray();
+    double arr[] = {1,2,3,4,6};
+    double res =  getAverage((int *)arr, 5);
+    printf("res-> %f",res);
+    
+    
     return 0;
 }
