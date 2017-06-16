@@ -1,6 +1,6 @@
 //
 //  main.c
-//  C003 读取文件并且输出
+//  C003 -- 读取文件并且输出
 //
 //  Created by fenglin on 2017/6/15.
 //  Copyright © 2017年 fenglin. All rights reserved.

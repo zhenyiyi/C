@@ -64,4 +64,6 @@ project.xcworkspace/
 
 xcuserdata/  
 
-UserInterface.xcuserstate 
+UserInterface.xcuserstate
+
+.DS_Store 
