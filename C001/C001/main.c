@@ -1,6 +1,6 @@
 //
 //  main.c
-//  C001
+//  C001 数组相关的知识
 //
 //  Created by fenglin on 2017/6/15.
 //  Copyright © 2017年 yhy. All rights reserved.
