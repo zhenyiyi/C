@@ -11,6 +11,7 @@
 		51D6D5001EF52EEC001B657F /* String.c in Sources */ = {isa = PBXBuildFile; fileRef = 51D6D4FE1EF52EEC001B657F /* String.c */; };
 		51D6D5171EF531DA001B657F /* libCFramework.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 51D6D5161EF531DA001B657F /* libCFramework.a */; };
 		51D6D51B1EF60812001B657F /* String02.c in Sources */ = {isa = PBXBuildFile; fileRef = 51D6D5191EF60812001B657F /* String02.c */; };
+		51EDC6EB1EF8AC4B004280D1 /* String03.c in Sources */ = {isa = PBXBuildFile; fileRef = 51EDC6E91EF8AC4B004280D1 /* String03.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -34,6 +35,8 @@
 		51D6D5181EF53492001B657F /* CFileUtil.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CFileUtil.h; path = ../CFramework/CFileUtil.h; sourceTree = "<group>"; };
 		51D6D5191EF60812001B657F /* String02.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = String02.c; sourceTree = "<group>"; };
 		51D6D51A1EF60812001B657F /* String02.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = String02.h; sourceTree = "<group>"; };
+		51EDC6E91EF8AC4B004280D1 /* String03.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = String03.c; sourceTree = "<group>"; };
+		51EDC6EA1EF8AC4B004280D1 /* String03.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = String03.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +72,8 @@
 			isa = PBXGroup;
 			children = (
 				51D6D4F71EF52EDD001B657F /* main.c */,
+				51EDC6E91EF8AC4B004280D1 /* String03.c */,
+				51EDC6EA1EF8AC4B004280D1 /* String03.h */,
 				51D6D5191EF60812001B657F /* String02.c */,
 				51D6D51A1EF60812001B657F /* String02.h */,
 				51D6D4FE1EF52EEC001B657F /* String.c */,
@@ -144,6 +149,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				51D6D5001EF52EEC001B657F /* String.c in Sources */,
+				51EDC6EB1EF8AC4B004280D1 /* String03.c in Sources */,
 				51D6D4F81EF52EDD001B657F /* main.c in Sources */,
 				51D6D51B1EF60812001B657F /* String02.c in Sources */,
 			);
@@ -274,6 +280,7 @@
 				51D6D4FD1EF52EDD001B657F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

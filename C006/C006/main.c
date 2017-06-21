@@ -9,11 +9,13 @@
 #include <stdio.h>
 #include "String.h"
 #include "String02.h"
+#include "String03.h"
 
 int main(int argc, const char * argv[]) {
-    readFromFilePath("-----------------");
-    test();
-    starBar();
-    test2();
+//    readFromFilePath("-----------------");
+//    test();
+//    starBar();
+//    test2();
+    test3();
     return 0;
 }

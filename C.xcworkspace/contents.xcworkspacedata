@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:C008/C008.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:CFramework/CFramework.xcodeproj">
    </FileRef>
    <FileRef
