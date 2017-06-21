@@ -1,6 +1,6 @@
 //
 //  main.c
-//  C008
+//  C008 -- 结构体
 //
 //  Created by fenglin on 2017/6/19.
 //  Copyright © 2017年 yhy. All rights reserved.
