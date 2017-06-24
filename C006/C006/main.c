@@ -11,7 +11,6 @@
 #include "String02.h"
 
 int main(int argc, const char * argv[]) {
-    readFromFilePath("-----------------");
     test();
     starBar();
     test2();
